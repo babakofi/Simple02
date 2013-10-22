@@ -1,0 +1,1 @@
+{"ts":1381887268861,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"#container {\n    height:100px;\n    line-height:100px;\n}\n\n#container img {\n    vertical-align:middle;\n    max-height:100%;\n}\n\nbody {\n    background-color: #0088AA;\n}\n\n"]],"start1":0,"start2":0,"length1":0,"length2":166}]],"length":166}
