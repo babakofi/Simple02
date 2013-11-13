@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 525F-D08A
+
+ Directory of C:\Users\BabaKofi.Weusijana\Documents\GitHub\Simple02\Week08-GitPractice
+
+11/12/2013  05:55 PM                 0 Test01.md.txt
+11/12/2013  05:55 PM                 0 Test02.md.txt
+11/12/2013  06:36 PM    <DIR>          images
+11/12/2013  06:56 PM               565 CloudNine.txt
+11/12/2013  06:56 PM               440 Lubuntu.txt
+11/12/2013  06:59 PM    <DIR>          ..
+11/12/2013  06:59 PM                 0 Windows.txt
+11/12/2013  06:59 PM    <DIR>          .
+               5 File(s)          1,005 bytes
+               3 Dir(s)  114,121,486,336 bytes free
